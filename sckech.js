@@ -2,7 +2,7 @@ let particles = [];
 let tam = 24;
 let fondo, azul, rojo, amarillo, verde, marron, negro;
 
-let monitoreo=true; // Poner en true si es necesario el monitoreo y sino dejar en false
+let monitoreo=false; // Poner en true si es necesario el monitoreo y sino dejar en false
 let mic;
 let pitch;
 let audioContext;
