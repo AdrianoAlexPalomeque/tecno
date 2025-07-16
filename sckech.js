@@ -182,8 +182,8 @@ if (estado=="sonidoGrave" || estado==="sonidoGraveProlongado" ){
 }
 
 if (estado=="sonidoGraveProlongado"){
-  let coloresBrillantes = [60, 120, 180, 240, 300];
-    randomHue = random(coloresBrillantes);
+ /* let coloresBrillantes = [60, 120, 180, 240, 300];
+    randomHue = random(coloresBrillantes);*/
 }
 // Fin configuracion estados.
 
